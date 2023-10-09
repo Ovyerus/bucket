@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/Ovyerus/bandsnatch/releases/download/v$version/bandsnatch-windows-x86_64-msvc.exe#/bandsnatch.exe"
+                "url": "https://github.com/Ovyerus/bandsnatch/releases/download/v$version/bandsnatch-windows-x86_64.exe#/bandsnatch.exe"
             }
         }
     }
